@@ -6,7 +6,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "jest"
+    "test": "jest",
+    "tdd": "jest --watch"
   },
   "dependencies": {
     "next": "12.0.4",
